@@ -1,4 +1,1 @@
 - Hi, I’m @catarinagoliveira
-- I’m interested in Machine Learning and Computer Vision
-- I’m currently working on my thesis for my master on Data Science
-- I’m looking to collaborate on new projects and challenges
